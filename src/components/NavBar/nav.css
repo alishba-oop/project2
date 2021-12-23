@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-section {
+    background-color: #263657;
+}
+
+.navigation-bar {
+    max-width: 760px;
+    margin: auto;
+    color: white !important;
+}
+
+.logo {
+    max-width: 160px;
+}
+
+.nav-list li {
+    color: white !important;
+    font-size: 16px;
+}

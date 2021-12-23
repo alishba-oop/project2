@@ -1,1 +1,3 @@
-@import './components/LoginPage/login.css'
+@import './components/LoginPage/login.css';
+@import './components/NavBar/nav.css';
+@import './components/Dasdhboard/dashboard.css'
